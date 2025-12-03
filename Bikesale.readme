@@ -1,0 +1,29 @@
+🚴 Bike Sales Analysis Project
+📌 Overview
+This project analyzes a dataset of customer demographics and purchasing behavior to identify factors influencing bike purchase decisions. The dataset includes attributes such as marital status, gender, income, education, occupation, commute distance, region, and age brackets, along with the target variable Purchased Bike (Yes/No).
+The goal is to demonstrate data cleaning, SQL querying, and Power BI dashboard creation for actionable business insights.
+________________________________________
+🎯 Objectives
+•	Clean and prepare raw customer data for analysis.
+•	Explore demographic and behavioral factors affecting bike purchases.
+•	Build interactive dashboards in Power BI to visualize trends.
+•	Provide insights that can help marketing and sales teams target the right audience.
+________________________________________
+🛠️ Tools & Skills Used
+•	SQL → Data cleaning, joins, aggregations, filtering.
+•	Excel → Initial exploration, pivot tables, quick checks.
+•	Power BI → Dashboard creation, DAX measures, interactive visuals.
+•	Data Visualization → Bar charts, pie charts, KPIs, slicers, drill-downs.
+________________________________________
+📊 Key Insights (Examples)
+•	Income vs Bike Purchase: Higher income groups showed stronger purchase tendencies.
+•	Commute Distance: Customers with longer commute distances were more likely to purchase bikes.
+•	Age Brackets: Middle-aged customers (35–50) showed higher purchase rates compared to younger or older groups.
+•	Region Trends: Pacific region customers had higher purchase ratios compared to Europe.
+________________________________________
+📈 Dashboard Features
+•	Demographic Breakdown: Purchases segmented by gender, marital status, and age brackets.
+•	Income Analysis: Bike purchase likelihood across income ranges.
+•	Commute Distance Impact: Visualization of how distance affects purchase decisions.
+•	Regional Comparison: Europe vs Pacific purchase behavior.
+•	Interactive Filters: Drill-down by occupation, education, and car ownership.
