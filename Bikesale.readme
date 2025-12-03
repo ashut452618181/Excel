@@ -4,10 +4,10 @@ This project analyzes a dataset of customer demographics and purchasing behavior
 The goal is to demonstrate data cleaning, SQL querying, and Power BI dashboard creation for actionable business insights.
 ________________________________________
 🎯 Objectives
-•	Clean and prepare raw customer data for analysis.
-•	Explore demographic and behavioral factors affecting bike purchases.
+•	Cleaned and prepare raw customer data for analysis.
+•	Explored demographic and behavioral factors affecting bike purchases.
 •	Build interactive dashboards in Power BI to visualize trends.
-•	Provide insights that can help marketing and sales teams target the right audience.
+•	Provided insights that can help marketing and sales teams target the right audience.
 ________________________________________
 🛠️ Tools & Skills Used
 •	SQL → Data cleaning, joins, aggregations, filtering.
